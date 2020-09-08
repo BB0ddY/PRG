@@ -1,4 +1,4 @@
-public class delitelnost {
+public class prvocisla {
 
     public static void main(String[] args) {
 
@@ -15,7 +15,7 @@ public class delitelnost {
                 eh = eh + i + " ";
             }
         }
-        System.out.println("Cisla delitelne 7 su:");
+        System.out.println("Prvocisla su:");
         System.out.println(eh);
     }
     public static boolean kontrola(int ciselnaKontrola) {
